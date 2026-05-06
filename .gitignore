@@ -1,0 +1,11 @@
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+wrfout_d01_2026-03-20_06:00:00
+wrfout_d02_2026-03-20_06:00:00
+METEOSAT_SATPY/meteosat_data/
+2m_temperature_maps/
+wind_maps/
